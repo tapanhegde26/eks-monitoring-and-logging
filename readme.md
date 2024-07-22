@@ -24,12 +24,6 @@ Please go through my blog to get more detailed setup by step by instuction
 
 This guide provides a detailed approach to setting up a complete monitoring and logging solution on AWS EKS. By following the steps, you can ensure robust monitoring and logging for your applications, facilitating better performance management and troubleshooting.
 
-## 🤙 Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- **LinkedIn:** [Ankit Jodhani](https://www.linkedin.com/in/ankit-jodhani/)
-- **GitHub:** [AnkitJodhani](https://github.com/AnkitJodhani)
 
 ---
 
